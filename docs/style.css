@@ -1,5 +1,9 @@
 body {
-    background-image: url(asssets/stars.gif);
+    background-color: black;
+    );
+    font-family: monospace;
+    font-size: 135%
+
 }
 
 h1 {
@@ -14,3 +18,25 @@ p {
     background-color: black;
 }
 
+#nav {
+    ul {
+        list-style-type: none;
+        display: flex;
+        justify-content: space-evenly;
+        background-color: black;
+        padding-top: 5px;
+        padding-bottom: 10px;
+    }
+
+    a:hover {
+        color: rgb(161, 168, 179);
+        text-decoration: underline;
+
+    }
+
+    a {
+        color: rgb(127, 141, 163);
+        text-decoration: none;
+
+    }
+}
