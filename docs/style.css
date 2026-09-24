@@ -1,7 +1,10 @@
+/* I should get a world record for worst stylesheet oat */
 body {
     background-color: black;
     font-family: monospace;
-    font-size: 135%
+    font-size: 135%;
+    width: 1300px;
+    margin: auto;
 }
 
 h1 {
@@ -24,18 +27,20 @@ h3 {
 
 p {
     color: rgb(195, 206, 224);
-    text-align: center;
     background-color: black;
     padding-left: 100px;
     padding-right: 100px;
+
 }
 
 a {
-    color: rgb(195, 206, 224)
+    color: rgb(195, 206, 224);
+    text-decoration: none;
 }
 
 a:hover {
-    color: aqua
+    color: aqua;
+    text-decoration: underline;
 }
 
 #nav {
@@ -50,7 +55,7 @@ a:hover {
 
     a:hover {
         color: rgb(161, 168, 179);
-        text-decoration: underline;
+        text-decoration: overline;
 
     }
 
@@ -72,4 +77,52 @@ a:hover {
 
 #list p {
     text-align: left;
+}
+
+.thoseboxesorwhatever {
+    display: flex;
+    padding-bottom: 55px;
+
+}
+
+.thoseboxesorwhatever p {
+    text-align: left;
+}
+
+.thoseboxesorwhatever img {
+    height: auto;
+    width: auto;
+    max-width: 500;
+    max-height: 700px;
+    justify-content: flex-end;
+
+}
+/*
+.thoseboxesorwhateverx3 {
+    display: flex;
+    padding-bottom: 55px
+}
+
+.thoseboxesorwhateverx3 p {
+    text-align: left;
+}
+
+.thoseboxesorwhateverx3 img {
+
+    height: auto;
+    width: auto;
+    max-width: 500px;
+    max-height: 550px;
+    justify-content: flex-end;
+i'm contaning this shit in this coment bc i might need it in 4000000 years */
+}
+
+.imagejail {
+    display: grid;
+    grid-template-columns: 1;
+    grid-template-rows: 1;
+}
+/* i'm an idiot for making the class name this long */
+.imthemaincharactersoishouldbecenteredalsoholyshitthisisalongfuckingclassname {
+    text-align: center;
 }
