@@ -97,6 +97,7 @@ a:hover {
     justify-content: flex-end;
 
 }
+
 /*
 .thoseboxesorwhateverx3 {
     display: flex;
@@ -122,6 +123,7 @@ i'm contaning this shit in this coment bc i might need it in 4000000 years */
     grid-template-columns: 1;
     grid-template-rows: 1;
 }
+
 /* i'm an idiot for making the class name this long */
 .imthemaincharactersoishouldbecenteredalsoholyshitthisisalongfuckingclassname {
     text-align: center;
