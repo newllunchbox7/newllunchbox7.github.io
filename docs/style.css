@@ -68,6 +68,8 @@ a:hover {
 
 .angrytext {
     text-decoration: underline;
+    padding-top: 50px;
+    padding-bottom: 50px;
 }
 
 #list {
@@ -93,7 +95,8 @@ a:hover {
     height: auto;
     width: auto;
     max-width: 500;
-    max-height: 700px;
+    max-height: 100%;
+    object-fit: cover;
     justify-content: flex-end;
 
 }
