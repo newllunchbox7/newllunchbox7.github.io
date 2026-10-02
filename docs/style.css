@@ -100,7 +100,26 @@ a:hover {
     justify-content: flex-end;
 
 }
+.guideopparent {
+    display:flex
+}
+.guideop {
 
+
+}
+
+.guideop p {
+    text-align: center;
+}
+
+.guideop img {
+    height: auto;
+    width: auto;
+    max-width: 255;
+    max-height: 50%;
+    object-fit: cover;
+
+}
 /*
 .thoseboxesorwhateverx3 {
     display: flex;
