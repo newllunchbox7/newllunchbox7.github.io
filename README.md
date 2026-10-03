@@ -4,7 +4,7 @@ general rhythm game guide
 
 
 __________list of crap i need to fix__________
- ~~* change page structure for guide from one 
+ * ~~change page structure for guide from one 
     big page to guide page that redirects to
     seperate guide pages for each game~~
     
