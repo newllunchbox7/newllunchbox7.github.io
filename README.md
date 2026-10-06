@@ -9,7 +9,7 @@ __________list of crap i need to fix__________
     seperate guide pages for each game~~
     
  * add notes to each div so i know what they
-    are while collapsed ---- done for osu.html
+    are while collapsed ---- done for osu.html doing sdvx.html
     
  * change the notes in (these) so that they 
     link to a specific note that is contained
