@@ -7,6 +7,8 @@ __________list of crap i need to fix__________
  * ~~change page structure for guide from one 
     big page to guide page that redirects to
     seperate guide pages for each game~~
+
+   *fix the opentabletdriver info on the osu page
     
  * add notes to each div so i know what they
     are while collapsed ---- done for osu.html doing sdvx.html
