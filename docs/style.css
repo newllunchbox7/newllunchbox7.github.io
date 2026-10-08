@@ -106,7 +106,7 @@ a:hover {
 
 }
 .guideopparent {
-    display:flex
+    display:flex; justify-content: center
 }
 .guideop {
 

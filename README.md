@@ -19,3 +19,8 @@ __________list of crap i need to fix__________
     (probably will never be done :/)
     
  * get rid of the absurd # of placeholder img
+ 
+ * rewrite my entire section on tablets for osu 
+    because i  talked about installing 
+    opentabletdriver  externally and nothing 
+    about the inbuilt version of opentabletdriver
