@@ -1,9 +1,9 @@
 /* I should get a world record for worst stylesheet oat */
-@font-face{
+@font-face {
     font-family: liberationmono;
     src: url(asssets/liberation-mono/LiberationMono-Regular.ttf)
-
 }
+
 body {
     background-color: black;
     font-family: liberationmono;
@@ -102,16 +102,16 @@ a:hover {
     max-width: 500;
     max-height: 100%;
     object-fit: cover;
-    justify-content: flex-end;
+    justify-content: space-between;
 
 }
+
 .guideopparent {
-    display:flex; justify-content: center
+    display: flex;
+    justify-content: center
 }
-.guideop {
 
-
-}
+.guideop {}
 
 .guideop p {
     text-align: center;
@@ -125,6 +125,7 @@ a:hover {
     object-fit: cover;
 
 }
+
 /*
 .thoseboxesorwhateverx3 {
     display: flex;
@@ -155,8 +156,10 @@ i'm contaning this shit in this coment bc i might need it in 4000000 years
 .imthemaincharactersoishouldbecenteredalsoholyshitthisisalongfuckingclassname {
     text-align: center;
 }
+
 .titlethingymobober {
     text-decoration: none;
     padding-top: 50px;
     padding-bottom: 50px;
-    text-align: center;}
+    text-align: center;
+}
