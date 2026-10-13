@@ -89,6 +89,7 @@ a:hover {
 .thoseboxesorwhatever {
     display: flex;
     padding-bottom: 55px;
+    justify-content: space-between;
 
 }
 
