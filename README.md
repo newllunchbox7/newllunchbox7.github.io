@@ -34,3 +34,4 @@ __________list of crap i need to fix__________
         sdvx - konasute image <a href="https://voltexes.com/images/2021/12/konasute_eg_installer_1.png">voltexes guide to konasute</a>
  * replace broken sdvx video (also i gotta 
     get better gameplay lmao)
+ * add note on openSuSE and Fedora linux for USC building
