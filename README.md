@@ -1,5 +1,5 @@
 general rhythm game guide
-(osu, sdvx, iidx, ddr(?), etc?) https://newllunchbox7.github.io
+(osu, sdvx, ~~iidx, ddr(?), etc?~~) https://newllunchbox7.github.io
 
 
 
