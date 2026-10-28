@@ -22,16 +22,13 @@ __________list of crap i need to fix__________
     (probably will never be done :/)
     
  * get rid of the absurd # of placeholder img
- 
- * rewrite my entire section on tablets for osu 
-    because i  talked about installing 
-    opentabletdriver  externally and nothing 
-    about the inbuilt version of opentabletdriver
     
  * list images that I pulled off internet so I
     can give credit/replace with my own
         sdvx - arcade image <a href="https://www.reddit.com/r/bemani/comments/1q0c7p3/nabla_is_here/">reddit post</a>
         sdvx - konasute image <a href="https://voltexes.com/images/2021/12/konasute_eg_installer_1.png">voltexes guide to konasute</a>
+        
  * replace broken sdvx video (also i gotta 
     get better gameplay lmao)
+   
  * ~~add note on openSuSE and Fedora linux for USC building~~
