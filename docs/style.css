@@ -1,164 +1,116 @@
 /* I should get a world record for worst stylesheet oat */
 @font-face {
-    font-family: liberationmono;
-    src: url(asssets/liberation-mono/LiberationMono-Regular.ttf)
+	font-family: liberationmono;
+	src: url(asssets/liberation-mono/LiberationMono-Regular.ttf)
 }
-
 body {
-    background-color: black;
-    font-family: liberationmono;
-    font-size: 110%;
-    width: 1300px;
-    margin: auto;
+	background-color: black;
+	font-family: liberationmono;
+	font-size: 110%;
+	width: 1300px;
+	margin: auto;
 }
-
 h1 {
-    color: rgb(127, 141, 163);
-    text-align: center;
-    background-color: black;
+	color: rgb(127, 141, 163);
+	text-align: center;
+	background-color: black;
 }
-
 h2 {
-    color: rgb(127, 141, 163);
-    text-align: center;
-    background-color: black;
+	color: rgb(127, 141, 163);
+	text-align: center;
+	background-color: black;
 }
-
 h3 {
-    color: rgb(127, 141, 163);
-    text-align: center;
-    background-color: black;
+	color: rgb(127, 141, 163);
+	text-align: center;
+	background-color: black;
 }
-
 p {
-    color: rgb(195, 206, 224);
-    background-color: black;
-    padding-left: 100px;
-    padding-right: 100px;
-
+	color: rgb(195, 206, 224);
+	background-color: black;
+	padding-left: 100px;
+	padding-right: 100px;
 }
-
 a {
-    color: rgb(195, 206, 224);
-    text-decoration: none;
+	color: rgb(195, 206, 224);
+	text-decoration: none;
 }
-
 a:hover {
-    color: aqua;
-    text-decoration: underline;
+	color: aqua;
+	text-decoration: underline;
 }
-
 #nav {
-    ul {
-        list-style-type: none;
-        display: flex;
-        justify-content: space-evenly;
-        background-color: black;
-        padding-top: 5px;
-        padding-bottom: 10px;
-    }
-
-    a:hover {
-        color: rgb(161, 168, 179);
-        text-decoration: overline;
-
-    }
-
-    a {
-        color: rgb(127, 141, 163);
-        text-decoration: none;
-
-    }
+	ul {
+		list-style-type: none;
+		display: flex;
+		justify-content: space-evenly;
+		background-color: black;
+		padding-top: 5px;
+		padding-bottom: 10px;
+	}
+	a:hover {
+		color: rgb(161, 168, 179);
+		text-decoration: overline;
+	}
+	a {
+		color: rgb(127, 141, 163);
+		text-decoration: none;
+	}
 }
-
 .angrytext {
-    text-decoration: none;
-    padding-top: 50px;
-    padding-bottom: 50px;
+	text-decoration: none;
+	padding-top: 50px;
+	padding-bottom: 50px;
 }
-
 #list {
-    max-width: 700;
-    margin-inline: auto
+	max-width: 700;
+	margin-inline: auto
 }
-
 #list p {
-    text-align: left;
+	text-align: left;
 }
-
 .thoseboxesorwhatever {
-    display: flex;
-    padding-bottom: 55px;
-    justify-content: space-between;
-
+	display: flex;
+	padding-bottom: 55px;
+	justify-content: space-between;
 }
-
 .thoseboxesorwhatever p {
-    text-align: left;
+	text-align: left;
 }
-
 .thoseboxesorwhatever img {
-    height: auto;
-    width: auto;
-    max-width: 500;
-    max-height: 100%;
-    object-fit: cover;
-    justify-content: space-between;
-
+	height: auto;
+	width: auto;
+	max-width: 500;
+	max-height: 100%;
+	object-fit: cover;
+	justify-content: space-between;
 }
-
 .guideopparent {
-    display: flex;
-    justify-content: center
+	display: flex;
+	justify-content: center
 }
-
 .guideop p {
-    text-align: center;
+	text-align: center;
 }
-
 .guideop img {
-    height: auto;
-    width: auto;
-    max-width: 255;
-    max-height: 50%;
-    object-fit: cover;
-
+	height: auto;
+	width: auto;
+	max-width: 255;
+	max-height: 50%;
+	object-fit: cover;
 }
-
-/*
-.thoseboxesorwhateverx3 {
-    display: flex;
-    padding-bottom: 55px
-}
-
-.thoseboxesorwhateverx3 p {
-    text-align: left;
-}
-
-.thoseboxesorwhateverx3 img {
-
-    height: auto;
-    width: auto;
-    max-width: 500px;
-    max-height: 550px;
-    justify-content: flex-end;
-i'm contaning this shit in this coment bc i might need it in 4000000 years 
-}*/
-
 .imagejail {
-    display: grid;
-    grid-template-columns: 1;
-    grid-template-rows: 1;
+	display: grid;
+	grid-template-columns: 1;
+	grid-template-rows: 1;
 }
-
 /* i'm an idiot for making the class name this long */
 .imthemaincharactersoishouldbecenteredalsoholyshitthisisalongfuckingclassname {
-    text-align: center;
+	text-align: center;
 }
-
 .titlethingymobober {
-    text-decoration: none;
-    padding-top: 50px;
-    padding-bottom: 50px;
-    text-align: center;
+	text-decoration: none;
+	padding-top: 50px;
+	padding-bottom: 50px;
+	text-align: center;
 }
