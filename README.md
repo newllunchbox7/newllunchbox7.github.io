@@ -21,7 +21,7 @@ __________list of crap i need to fix__________
     inside of a seperate page for just notes
     (probably will never be done :/)
     
- * get rid of the absurd # of placeholder img
+ * ~~get rid of the absurd # of placeholder img~~
     
  * list images that I pulled off internet so I
     can give credit/replace with my own
