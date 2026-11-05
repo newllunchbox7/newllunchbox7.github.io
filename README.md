@@ -22,7 +22,9 @@ __________list of crap i need to fix__________
     (probably will never be done :/)
     
  * ~~get rid of the absurd # of placeholder img~~
-    
+
+ * fix all the random typos
+ 
  * list images that I pulled off internet so I
     can give credit/replace with my own
         sdvx - arcade image <a href="https://www.reddit.com/r/bemani/comments/1q0c7p3/nabla_is_here/">reddit post</a>
